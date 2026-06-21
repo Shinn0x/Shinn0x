@@ -1,100 +1,102 @@
-<!-- ░░░ HEADER ░░░ -->
+<!-- ░░░ BANNER ░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=620&height=60&lines=Hi%2C+I'm+Shinn.;Cloud+%2F+DevOps+engineer.;I+ship%2C+automate+%26+scale." alt="typing header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2dd4bf,50:3b82f6,100:8b5cf6&height=180&section=header&text=Shinn&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Cloud%20%2F%20DevOps%20engineer%20%E2%80%A2%20Singapore&descSize=18&descAlignY=66&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <code>📍 Singapore</code>&nbsp;&nbsp;<code>☁️ AWS</code>&nbsp;&nbsp;<code>📦 Docker</code>&nbsp;&nbsp;<code>🐧 Linux</code>&nbsp;&nbsp;<code>🤖 CI/CD</code>
-</p>
-
-<p align="center">
-  <a href="https://www.shinn.life"><img src="https://img.shields.io/badge/_Portfolio-shinn.life-f59e0b?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=f59e0b"></a>
-  <a href="https://www.linkedin.com/in/naing-shin-thant-zaw/"><img src="https://img.shields.io/badge/_LinkedIn-_-ec4899?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=ec4899"></a>
-  <a href="mailto:shinnisherex@gmail.com"><img src="https://img.shields.io/badge/_Email-_-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=8b5cf6"></a>
-  <img src="https://img.shields.io/badge/●_Open_to_work-_-22c55e?style=for-the-badge&labelColor=0d1117">
-</p>
-
-<!-- gradient divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,50:ec4899,100:8b5cf6&height=3&width=100%" width="100%" />
-
-<br>
-
-### `~/ neofetch`
-
-```
-          .--.            shinn@fedora
-         |o_o |           ──────────────────────────────────
-         |:_/ |           os ........ Fedora Linux 🎩
-        //   \ \          host ...... Singapore 🇸🇬
-       (|     | )         role ...... Junior Cloud / DevOps
-      /'\_   _/`\         shell ..... bash / zsh
-      \___)=(___/         kernel .... ship · automate · scale
-       _)  (_  )          edu ....... Singapore Polytechnic, IT
-      (_      _)          focus ..... AWS · Docker · Linux · CI/CD
-     /  \    /  \         uptime .... building in public
-    (    `--'    )        motto ..... a doer, not a watcher
-     \          /         ──────────────────────────────────
-      `.______.'          ▰▰▰  ▰▰▰  ▰▰▰  ▰▰▰  ▰▰▰
-                          infra above — self-hosted on AWS ☁️
-```
-
-<br>
-
-### `~/ stack --list`
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-_-FF9900?style=flat-square&labelColor=0d1117&logo=amazonwebservices&logoColor=FF9900">
-  <img src="https://img.shields.io/badge/Linux-_-FCC624?style=flat-square&labelColor=0d1117&logo=linux&logoColor=FCC624">
-  <img src="https://img.shields.io/badge/Docker-_-2496ED?style=flat-square&labelColor=0d1117&logo=docker&logoColor=2496ED">
-  <img src="https://img.shields.io/badge/Git-_-F05032?style=flat-square&labelColor=0d1117&logo=git&logoColor=F05032">
-  <img src="https://img.shields.io/badge/GitHub_Actions-_-2088FF?style=flat-square&labelColor=0d1117&logo=githubactions&logoColor=2088FF">
-  <img src="https://img.shields.io/badge/Jenkins-_-D24939?style=flat-square&labelColor=0d1117&logo=jenkins&logoColor=D24939">
-  <img src="https://img.shields.io/badge/Bash-_-4EAA25?style=flat-square&labelColor=0d1117&logo=gnubash&logoColor=4EAA25">
-  <img src="https://img.shields.io/badge/Python-_-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=3776AB">
-  <img src="https://img.shields.io/badge/Java-_-E76F00?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=E76F00">
-  <img src="https://img.shields.io/badge/Spring_Boot-_-6DB33F?style=flat-square&labelColor=0d1117&logo=springboot&logoColor=6DB33F">
+  <a href="https://www.shinn.life"><img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&labelColor=0b1221&logo=vercel&logoColor=2dd4bf"></a>
+  <a href="https://www.linkedin.com/in/naing-shin-thant-zaw/"><img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&labelColor=0b1221&logo=linkedin&logoColor=3b82f6"></a>
+  <a href="mailto:shinnisherex@gmail.com"><img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&labelColor=0b1221&logo=gmail&logoColor=8b5cf6"></a>
+  <img src="https://img.shields.io/badge/Open_to_work-14b8a6?style=for-the-badge&labelColor=0b1221&logo=statuspage&logoColor=14b8a6">
 </p>
 
 <br>
 
-### `~/ projects --featured`
+<!-- ░░░ INTRO ░░░ -->
+<h3 align="center">I provision, containerize & automate — then ship it. ☁️</h3>
 
-<table>
+<p align="center">
+  A doer, not a watcher. IT grad from <b>Singapore Polytechnic</b>, now all-in on cloud & DevOps.<br>
+  The portfolio linked above runs on infrastructure I wired up myself on <b>AWS</b>.
+</p>
+
+<br>
+
+<!-- ░░░ STACK (bento grid) ░░░ -->
+<h3 align="center">⚡ Tech Stack</h3>
+
+<table align="center">
   <tr>
-    <td valign="top">🐳</td>
-    <td>
-      <b><a href="https://github.com/Shinn0x/docker-labs">docker-labs</a></b>
-      &nbsp;<img src="https://img.shields.io/badge/hands--on-ec4899?style=flat-square&labelColor=0d1117"><br>
-      A four-part suite that climbs from a single Dockerfile to a full polyglot
-      microservices stack — Compose, API gateway, database-per-service.
-      Every Docker artifact written by me.
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" /><br><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" /><br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" /><br><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="48" /><br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" /><br><sub><b>Actions</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" /><br><sub><b>Jenkins</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" /><br><sub><b>Bash</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="48" /><br><sub><b>Python</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="48" /><br><sub><b>Java</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" /><br><sub><b>Spring</b></sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-### `~/ progress --now`
+<!-- ░░░ FEATURED ░░░ -->
+<h3 align="center">⭐ Featured Project</h3>
 
-```
-AWS    ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱  35%  ·  Cloud Practitioner cert
-DOCKER ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱  65%  ·  images · compose · microservices
-LINUX  ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱  40%  ·  cli · permissions · scripting
-CI/CD  ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱  35%  ·  github actions · jenkins
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,50:ec4899,100:f59e0b&height=3&width=100%" width="100%" />
-
-<br>
-
-### `~/ connect`
-
-> Open to **junior cloud / DevOps roles & internships** — and always up to talk shop.
-
-<p>
-  <code>🌐 shinn.life</code>&nbsp;&nbsp;<code>💼 /in/naing-shin-thant-zaw</code>&nbsp;&nbsp;<code>📫 shinnisherex@gmail.com</code>
+<p align="center">
+  <a href="https://github.com/Shinn0x/docker-labs">
+    <img src="https://img.shields.io/badge/🐳_docker--labs-2dd4bf?style=for-the-badge&labelColor=0b1221" />
+  </a>
 </p>
 
-<p align="center"><sub>⚡ Building in public — every repo is a checkpoint.</sub></p>
+<p align="center">
+  A four-part, hands-on suite that climbs from a single Dockerfile<br>
+  to a full polyglot microservices stack — Compose, API gateway, database-per-service.<br>
+  <i>Every Docker artifact written by me.</i>
+</p>
+
+<br>
+
+<!-- ░░░ FOCUS ░░░ -->
+<h3 align="center">🎯 Currently Leveling Up</h3>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-2dd4bf?style=flat-square&labelColor=0b1221"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Docker_Microservices-3b82f6?style=flat-square&labelColor=0b1221"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Linux_Scripting-8b5cf6?style=flat-square&labelColor=0b1221"></td>
+    <td align="center"><img src="https://img.shields.io/badge/CI%2FCD_Pipelines-14b8a6?style=flat-square&labelColor=0b1221"></td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8b5cf6,50:3b82f6,100:2dd4bf&height=150&section=footer" width="100%" />
+</p>
+
+<p align="center"><sub>🛠️ Building in public — every repo is a checkpoint.</sub></p>
