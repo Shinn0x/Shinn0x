@@ -1,6 +1,6 @@
 <!-- ░░░ HEADER ░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shinn.;Junior+Cloud+%2F+DevOps+Engineer+in+the+making;I+provision%2C+containerize+%26+automate." alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2600&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=60&lines=Hi%2C+I'm+Shinn.;Cloud+%2F+DevOps+engineer.;I+ship%2C+automate+%26+scale." alt="typing header" />
 </p>
 
 <p align="center">
@@ -19,14 +19,29 @@
 
 <br>
 
-### `~/ whoami`
+### `~/ neofetch`
 
 ```
-> A doer, not a watcher. I spin up servers, pack apps into containers,
-> automate the boring parts, and ship. IT grad from Singapore Polytechnic,
-> now all-in on cloud & DevOps.
->
-> ☁️ The portfolio above runs on infra I wired up myself on AWS.
+            .-/+oossssoo+/-.              shinn@cloud
+        `:+ssssssssssssssssss+:`          ───────────────────────────────
+      -+ssssssssssssssssssyyssss+-        host ......... Singapore 🇸🇬
+    .ossssssssssssssssssdMMMNysssso.      role ......... Junior Cloud / DevOps
+   /sssssssssssshdmmNNmmyNMMMMhssssss/    uptime ....... building in public
+  +sssssssssshmydMMMMMMMNddddyssssssss+   shell ........ bash / zsh
+ /ssssssssshNMMMyhhyyyyhmNMMMNhssssssss/  kernel ....... ship · automate · scale
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.  edu .......... Singapore Polytechnic, IT
++sssshhhyNMMNyssssssssssssyNMMMysssssss+  focus ........ AWS · Docker · Linux · CI/CD
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso  motto ........ a doer, not a watcher
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso  ───────────────────────────────
++sssshhhyNMMNyssssssssssssyNMMMysssssss+  ▰▰▰  ▰▰▰  ▰▰▰  ▰▰▰  ▰▰▰
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.  the portfolio above runs on infra
+ /ssssssssshNMMMyhhyyyyhdNMMMNhssssssss/  I wired up myself on AWS ☁️
+  +sssssssssdmydMMMMMMMMddddyssssssss+
+   /sssssssssssshdmNNNNmyNMMMMhssssss/
+    .ossssssssssssssssssdMMMNysssso.
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
 ```
 
 <br>
