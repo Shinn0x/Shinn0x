@@ -1,29 +1,35 @@
-<h1 align="center">Shinn</h1>
-<p align="center">Junior Cloud / DevOps engineer in the making — based in Singapore</p>
+<h1 align="center">Hey, I'm Shinn 👋</h1>
+<p align="center"><b>Junior Cloud / DevOps engineer in the making</b> · Singapore 🇸🇬</p>
 
 <p align="center">
-  <a href="https://www.shinn.life"><img src="https://img.shields.io/badge/Portfolio-shinn.life-2563eb?style=flat-square&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/naing-shin-thant-zaw/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:shinnisherex@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Open_to_work-10b981?style=flat-square">
+  <a href="https://www.shinn.life"><img src="https://img.shields.io/badge/🌐_Portfolio-shinn.life-6366f1?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/naing-shin-thant-zaw/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:shinnisherex@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-fb7185?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/🟢_Open_to_work-10b981?style=for-the-badge">
 </p>
 
+---
+
+### 🚀 The short version
+
+> I learn by **doing** — spinning up servers, packing apps into containers, automating the boring stuff, and actually *shipping*. IT grad from **Singapore Polytechnic**, now all-in on cloud & DevOps.
+>
+> ☁️ Fun fact: the portfolio linked above runs on infrastructure I wired up myself on **AWS**.
+
 <br>
 
-> I learn by doing — spinning up servers, putting apps in containers, automating the boring parts, and actually shipping. IT grad from Singapore Polytechnic, now all-in on cloud and DevOps. The portfolio you'll find below runs on infrastructure I set up myself on AWS.
+### 🎯 What I'm into
+
+```yaml
+☁️  cloud:      provisioning, deploying & running things on AWS
+📦  containers: Dockerfiles + Compose, multi-service setups
+🤖  automation: CI/CD pipelines and Bash/Python scripting
+🐧  linux:      the command line is home
+```
 
 <br>
 
-### What I'm into
-
-```
-cloud      provisioning, deploying and running things on AWS
-containers writing Dockerfiles + Compose, multi-service setups
-automation CI/CD pipelines and Bash/Python scripting
-linux      the command line is home
-```
-
-### Toolbox
+### 🧰 My toolbox
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
@@ -38,19 +44,45 @@ linux      the command line is home
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 
-### Featured work
+<br>
 
-**[Docker Labs](https://github.com/Shinn0x/docker-labs)** — a four-part, hands-on suite that goes from a single Dockerfile to a full polyglot microservices stack (Compose, API gateway, database-per-service). I wrote every Docker artifact myself.
+### ⭐ Featured work
 
-### Right now
+<table>
+  <tr>
+    <td>🐳</td>
+    <td>
+      <b><a href="https://github.com/Shinn0x/docker-labs">Docker Labs</a></b><br>
+      A four-part, hands-on suite that goes from a single Dockerfile all the way to a full
+      polyglot microservices stack — Compose, API gateway, database-per-service.
+      Every Docker artifact written by me. ✍️
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 📊 What I'm grinding on right now
 
 ```
-AWS          ███████░░░░░░░░░░░░░   studying for the Cloud Practitioner cert
-Docker       █████████████░░░░░░░   images, compose, microservices
-Linux        ████████░░░░░░░░░░░░   cli, permissions, scripting
-CI/CD        ███████░░░░░░░░░░░░░   github actions + jenkins
+AWS          ███████░░░░░░░░░░░░░   35%   studying for Cloud Practitioner cert
+Docker       █████████████░░░░░░░   65%   images, compose, microservices
+Linux        ████████░░░░░░░░░░░░   40%   cli, permissions, scripting
+CI/CD        ███████░░░░░░░░░░░░░   35%   github actions + jenkins
 ```
 
 <br>
 
-<p align="center"><sub>Building in public — every repo is a checkpoint.</sub></p>
+---
+
+### 💬 Let's connect
+
+I'm **open to junior cloud / DevOps roles & internships** and always happy to talk shop.
+
+- 🌐 Portfolio → **[shinn.life](https://www.shinn.life)**
+- 💼 LinkedIn → **[Naing Shin Thant Zaw](https://www.linkedin.com/in/naing-shin-thant-zaw/)**
+- 📫 Email → **shinnisherex@gmail.com**
+
+> 📚 **Currently learning:** AWS Cloud Practitioner · deeper Docker networking · CI/CD with GitHub Actions
+
+<p align="center"><sub>🛠️ Building in public — every repo is a checkpoint.</sub></p>
