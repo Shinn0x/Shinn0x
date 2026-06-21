@@ -95,8 +95,7 @@
 
 <br>
 
+<p align="center"><sub>🛠️ Building in public — every repo is a checkpoint.</sub></p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8b5cf6,50:3b82f6,100:2dd4bf&height=150&section=footer" width="100%" />
 </p>
-
-<p align="center"><sub>🛠️ Building in public — every repo is a checkpoint.</sub></p>
