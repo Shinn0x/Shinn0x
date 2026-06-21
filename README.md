@@ -1,6 +1,6 @@
 <!-- ░░░ HEADER ░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2600&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=60&lines=Hi%2C+I'm+Shinn.;Cloud+%2F+DevOps+engineer.;I+ship%2C+automate+%26+scale." alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=620&height=60&lines=Hi%2C+I'm+Shinn.;Cloud+%2F+DevOps+engineer.;I+ship%2C+automate+%26+scale." alt="typing header" />
 </p>
 
 <p align="center">
@@ -8,40 +8,34 @@
 </p>
 
 <p align="center">
-  <a href="https://www.shinn.life"><img src="https://img.shields.io/badge/_Portfolio-shinn.life-22d3ee?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=22d3ee"></a>
-  <a href="https://www.linkedin.com/in/naing-shin-thant-zaw/"><img src="https://img.shields.io/badge/_LinkedIn-_-818cf8?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=818cf8"></a>
-  <a href="mailto:shinnisherex@gmail.com"><img src="https://img.shields.io/badge/_Email-_-f472b6?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=f472b6"></a>
-  <img src="https://img.shields.io/badge/●_Open_to_work-_-34d399?style=for-the-badge&labelColor=0d1117">
+  <a href="https://www.shinn.life"><img src="https://img.shields.io/badge/_Portfolio-shinn.life-f59e0b?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=f59e0b"></a>
+  <a href="https://www.linkedin.com/in/naing-shin-thant-zaw/"><img src="https://img.shields.io/badge/_LinkedIn-_-ec4899?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=ec4899"></a>
+  <a href="mailto:shinnisherex@gmail.com"><img src="https://img.shields.io/badge/_Email-_-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=8b5cf6"></a>
+  <img src="https://img.shields.io/badge/●_Open_to_work-_-22c55e?style=for-the-badge&labelColor=0d1117">
 </p>
 
 <!-- gradient divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:818cf8,100:f472b6&height=3&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,50:ec4899,100:8b5cf6&height=3&width=100%" width="100%" />
 
 <br>
 
 ### `~/ neofetch`
 
 ```
-            .-/+oossssoo+/-.              shinn@cloud
-        `:+ssssssssssssssssss+:`          ───────────────────────────────
-      -+ssssssssssssssssssyyssss+-        host ......... Singapore 🇸🇬
-    .ossssssssssssssssssdMMMNysssso.      role ......... Junior Cloud / DevOps
-   /sssssssssssshdmmNNmmyNMMMMhssssss/    uptime ....... building in public
-  +sssssssssshmydMMMMMMMNddddyssssssss+   shell ........ bash / zsh
- /ssssssssshNMMMyhhyyyyhmNMMMNhssssssss/  kernel ....... ship · automate · scale
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.  edu .......... Singapore Polytechnic, IT
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+  focus ........ AWS · Docker · Linux · CI/CD
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso  motto ........ a doer, not a watcher
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso  ───────────────────────────────
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+  ▰▰▰  ▰▰▰  ▰▰▰  ▰▰▰  ▰▰▰
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.  the portfolio above runs on infra
- /ssssssssshNMMMyhhyyyyhdNMMMNhssssssss/  I wired up myself on AWS ☁️
-  +sssssssssdmydMMMMMMMMddddyssssssss+
-   /sssssssssssshdmNNNNmyNMMMMhssssss/
-    .ossssssssssssssssssdMMMNysssso.
-      -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.
+          .--.            shinn@fedora
+         |o_o |           ──────────────────────────────────
+         |:_/ |           os ........ Fedora Linux 🎩
+        //   \ \          host ...... Singapore 🇸🇬
+       (|     | )         role ...... Junior Cloud / DevOps
+      /'\_   _/`\         shell ..... bash / zsh
+      \___)=(___/         kernel .... ship · automate · scale
+       _)  (_  )          edu ....... Singapore Polytechnic, IT
+      (_      _)          focus ..... AWS · Docker · Linux · CI/CD
+     /  \    /  \         uptime .... building in public
+    (    `--'    )        motto ..... a doer, not a watcher
+     \          /         ──────────────────────────────────
+      `.______.'          ▰▰▰  ▰▰▰  ▰▰▰  ▰▰▰  ▰▰▰
+                          infra above — self-hosted on AWS ☁️
 ```
 
 <br>
@@ -70,7 +64,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso  ────────────�
     <td valign="top">🐳</td>
     <td>
       <b><a href="https://github.com/Shinn0x/docker-labs">docker-labs</a></b>
-      &nbsp;<img src="https://img.shields.io/badge/hands--on-22d3ee?style=flat-square&labelColor=0d1117"><br>
+      &nbsp;<img src="https://img.shields.io/badge/hands--on-ec4899?style=flat-square&labelColor=0d1117"><br>
       A four-part suite that climbs from a single Dockerfile to a full polyglot
       microservices stack — Compose, API gateway, database-per-service.
       Every Docker artifact written by me.
@@ -91,7 +85,7 @@ CI/CD  ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱  35%  ·  gi
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:818cf8,100:22d3ee&height=3&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,50:ec4899,100:f59e0b&height=3&width=100%" width="100%" />
 
 <br>
 
