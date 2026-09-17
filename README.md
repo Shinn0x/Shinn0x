@@ -1,24 +1,26 @@
-<!-- ░ HEADER ░ -->
+<!-- ░ HEADER: swaps with GitHub light / dark theme ░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1221,100:134e4a&height=150&text=Naing%20Shin%20Thant%20Zaw&fontSize=42&fontColor=e6edf3&fontAlignY=42&desc=Junior%20Cloud%20%2F%20DevOps%20Engineer%20%C2%B7%20Singapore&descSize=16&descAlignY=70&animation=fadeIn" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=140&text=Naing%20Shin%20Thant%20Zaw&fontSize=40&fontColor=f0f6fc&fontAlignY=42&desc=Junior%20Cloud%20%2F%20DevOps%20Engineer%20%C2%B7%20Singapore&descSize=15&descAlignY=70">
+    <img alt="Naing Shin Thant Zaw, Junior Cloud / DevOps Engineer, Singapore" src="https://capsule-render.vercel.app/api?type=rect&color=f6f8fa&height=140&text=Naing%20Shin%20Thant%20Zaw&fontSize=40&fontColor=1f2328&fontAlignY=42&desc=Junior%20Cloud%20%2F%20DevOps%20Engineer%20%C2%B7%20Singapore&descSize=15&descAlignY=70" width="100%">
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://localhostshinn.xyz"><img src="https://img.shields.io/badge/Portfolio-localhostshinn.xyz-2dd4bf?style=flat-square&labelColor=0b1221"></a>
-  <a href="https://www.linkedin.com/in/naing-shin-thant-zaw/"><img src="https://img.shields.io/badge/LinkedIn-naing--shin--thant--zaw-2dd4bf?style=flat-square&labelColor=0b1221"></a>
-  <a href="mailto:naingshinthantzaw04@gmail.com"><img src="https://img.shields.io/badge/Email-naingshinthantzaw04@gmail.com-2dd4bf?style=flat-square&labelColor=0b1221"></a>
-  <img src="https://img.shields.io/badge/status-open_to_work-14b8a6?style=flat-square&labelColor=0b1221">
+  <a href="https://localhostshinn.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-localhostshinn.xyz-57606a?style=flat-square&labelColor=24292f"></a>
+  <a href="https://www.linkedin.com/in/naing-shin-thant-zaw/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-naing--shin--thant--zaw-57606a?style=flat-square&labelColor=24292f"></a>
+  <a href="mailto:naingshinthantzaw04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-naingshinthantzaw04@gmail.com-57606a?style=flat-square&labelColor=24292f"></a>
+  <img alt="Open to work" src="https://img.shields.io/badge/Status-open_to_work-57606a?style=flat-square&labelColor=24292f">
 </p>
 
 <br>
 
-<!-- ░ ABOUT ░ -->
-```yaml
-role:       Junior Cloud / DevOps Engineer
-based:      Singapore
-education:  Diploma in IT, Singapore Polytechnic
-internship: Tuas Power Generation, shipped a production internal web service
-approach:   build it on AWS, codify it in Terraform, automate the deploy
+```text
+role        Junior Cloud / DevOps Engineer
+based       Singapore
+education   Diploma in IT, Singapore Polytechnic
+internship  Tuas Power Generation, shipped a production internal web service
+approach    build it on AWS, codify it in Terraform, automate the deploy
 ```
 
 <br>
@@ -27,11 +29,11 @@ approach:   build it on AWS, codify it in Terraform, automate the deploy
 <h3 align="center">Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,githubactions,python,bash&theme=dark" />
+  <code>AWS</code> &nbsp; <code>Terraform</code> &nbsp; <code>Docker</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub Actions</code> &nbsp; <code>Python</code> &nbsp; <code>Bash</code>
 </p>
 
 <p align="center">
-  <sub><b>AWS</b> &nbsp;·&nbsp; EC2 · VPC · ALB · ECS Fargate · ECR · S3 · CloudFront · Route 53 · ACM · Lambda · API Gateway · DynamoDB · IAM · Bedrock</sub>
+  <sub>AWS &nbsp;·&nbsp; EC2 · VPC · ALB · Auto Scaling · S3 · CloudFront · Route 53 · ACM · Lambda · API Gateway · DynamoDB · IAM · Bedrock</sub>
 </p>
 
 <br>
@@ -41,27 +43,30 @@ approach:   build it on AWS, codify it in Terraform, automate the deploy
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Shinn0x/seventy-eight">Seventy-Eight</a></b><br>
-      <sub>Serverless tarot API with AI-generated readings, plain-language answers, 24h auto-expiry.</sub><br><br>
-      <code>API Gateway</code> <code>Lambda</code> <code>DynamoDB</code> <code>Bedrock</code>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Shinn0x/portfolio">Portfolio on AWS</a></b><br>
-      <sub>From Jenkins on EC2 to ECS Fargate behind an ALB, infra in staged Terraform layers, remote state in S3.</sub><br><br>
-      <code>Terraform</code> <code>ECS Fargate</code> <code>ALB</code> <code>ECR</code>
+    <td valign="top">
+      <b>01 &nbsp;S3 Static Site + CloudFront</b><br>
+      <sub>Private S3 bucket served only through CloudFront OAC, HTTPS on a custom domain. No public bucket access.</sub><br><br>
+      <code>S3</code> <code>CloudFront</code> <code>OAC</code> <code>Route 53</code> <code>ACM</code><br><br>
+      <a href="https://mini.shinn.life/"><img alt="Live" src="https://img.shields.io/badge/LIVE_%E2%86%97-24292f?style=flat-square"></a>
+      <a href="https://localhostshinn.xyz/blog/s3-cloudfront-oac"><img alt="Write-up" src="https://img.shields.io/badge/WRITE--UP_%E2%86%97-57606a?style=flat-square"></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Shinn0x/S3_static_host">Private S3 Static Site</a></b><br>
-      <sub>Private bucket served through CloudFront OAC with TLS, no public access.</sub><br><br>
-      <code>S3</code> <code>CloudFront</code> <code>Route 53</code> <code>ACM</code>
+    <td valign="top">
+      <b>02 &nbsp;ALB Path Routing + Auto Scaling</b><br>
+      <sub>One load balancer, three independent backends, split purely by URL path.</sub><br>
+      <sub>Layer-7 rules route <code>/about-me</code> and <code>/what-am-i-doing</code> to separate backends, with everything else falling to a default target group. Each path has its own ASG across 3 AZs, scaling at 60% CPU and replacing instances that fail health checks. HTTPS terminates at the ALB via ACM + Route 53, with :80 redirected to :443.</sub><br><br>
+      <code>ALB</code> <code>Auto Scaling</code> <code>EC2</code> <code>Route 53</code> <code>ACM</code><br><br>
+      <a href="https://localhostshinn.xyz/blog/self-healing-auto-scaling-web-tier"><img alt="Write-up" src="https://img.shields.io/badge/WRITE--UP_%E2%86%97-57606a?style=flat-square"></a>
     </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Shinn0x/docker-labs">docker-labs</a></b><br>
-      <sub>Four labs from a single Dockerfile up to a multi-service Compose stack with an API gateway.</sub><br><br>
-      <code>Docker</code> <code>Compose</code> <code>Bash</code>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>03 &nbsp;Seventy-Eight</b><br>
+      <sub>Serverless tarot app with AI readings. Draws cards from DynamoDB, and Bedrock explains them in plain language.</sub><br><br>
+      <code>API Gateway</code> <code>Lambda</code> <code>DynamoDB</code> <code>Bedrock</code> <code>CloudFront</code><br><br>
+      <a href="https://seventy-eight.localhostshinn.xyz/"><img alt="Live" src="https://img.shields.io/badge/LIVE_%E2%86%97-24292f?style=flat-square"></a>
+      <a href="https://localhostshinn.xyz/blog/seventy-eight-serverless-tarot"><img alt="Write-up" src="https://img.shields.io/badge/WRITE--UP_%E2%86%97-57606a?style=flat-square"></a>
     </td>
   </tr>
 </table>
