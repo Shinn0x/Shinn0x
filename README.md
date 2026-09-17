@@ -29,7 +29,10 @@ approach    build it on AWS, codify it in Terraform, automate the deploy
 <h3 align="center">Stack</h3>
 
 <p align="center">
-  <code>AWS</code> &nbsp; <code>Terraform</code> &nbsp; <code>Docker</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub Actions</code> &nbsp; <code>Python</code> &nbsp; <code>Bash</code>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,git,githubactions,python,bash&theme=dark">
+    <img alt="AWS, Terraform, Docker, Git, GitHub Actions, Python, Bash" src="https://skillicons.dev/icons?i=aws,terraform,docker,git,githubactions,python,bash&theme=light">
+  </picture>
 </p>
 
 <p align="center">
