@@ -82,7 +82,6 @@ approach    build it on AWS, codify it in Terraform, automate the deploy
 <p align="center">
   <sub>
     ▸ Preparing for <b>AWS Solutions Architect Associate (SAA-C03)</b><br>
-    ▸ Building a multi-env <b>ECS Fargate platform</b> with Terraform + GitHub Actions<br>
     ▸ Designing a <b>zero-NAT VPC</b> that reaches AWS services through VPC endpoints
   </sub>
 </p>
