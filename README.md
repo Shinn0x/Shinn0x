@@ -1,16 +1,16 @@
-<!-- ░ HEADER: swaps with GitHub light / dark theme ░ -->
+<!-- HEADER: follows GitHub's light / dark theme -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=140&text=Naing%20Shin%20Thant%20Zaw&fontSize=40&fontColor=f0f6fc&fontAlignY=42&desc=Junior%20Cloud%20%2F%20DevOps%20Engineer%20%C2%B7%20Singapore&descSize=15&descAlignY=70">
-    <img alt="Naing Shin Thant Zaw, Junior Cloud / DevOps Engineer, Singapore" src="https://capsule-render.vercel.app/api?type=rect&color=f6f8fa&height=140&text=Naing%20Shin%20Thant%20Zaw&fontSize=40&fontColor=1f2328&fontAlignY=42&desc=Junior%20Cloud%20%2F%20DevOps%20Engineer%20%C2%B7%20Singapore&descSize=15&descAlignY=70" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=140&text=Naing%20Shin%20Thant%20Zaw&fontSize=40&fontColor=f0f6fc&fontAlignY=42&desc=Junior%20Cloud%20%2F%20DevOps%20Engineer%20%C2%B7%20AWS%20Certified%20%C2%B7%20Singapore&descSize=15&descAlignY=70">
+    <img alt="Naing Shin Thant Zaw — Junior Cloud / DevOps Engineer, AWS Certified, Singapore" src="https://capsule-render.vercel.app/api?type=rect&color=f6f8fa&height=140&text=Naing%20Shin%20Thant%20Zaw&fontSize=40&fontColor=1f2328&fontAlignY=42&desc=Junior%20Cloud%20%2F%20DevOps%20Engineer%20%C2%B7%20AWS%20Certified%20%C2%B7%20Singapore&descSize=15&descAlignY=70" width="100%">
   </picture>
 </p>
 
 <p align="center">
   <a href="https://localhostshinn.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-localhostshinn.xyz-57606a?style=flat-square&labelColor=24292f"></a>
   <a href="https://www.linkedin.com/in/naing-shin-thant-zaw/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-naing--shin--thant--zaw-57606a?style=flat-square&labelColor=24292f"></a>
-  <a href="mailto:naingshinthantzaw04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-naingshinthantzaw04@gmail.com-57606a?style=flat-square&labelColor=24292f"></a>
-  <img alt="Open to work" src="https://img.shields.io/badge/Status-open_to_work-57606a?style=flat-square&labelColor=24292f">
+  <a href="mailto:naingshinthantzaw04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-naingshinthantzaw04%40gmail.com-57606a?style=flat-square&labelColor=24292f"></a>
+  <img alt="Open to junior Cloud and DevOps opportunities" src="https://img.shields.io/badge/Status-open_to_work-57606a?style=flat-square&labelColor=24292f">
 </p>
 
 <br>
@@ -18,71 +18,114 @@
 ```text
 role        Junior Cloud / DevOps Engineer
 based       Singapore
-education   Diploma in IT, Singapore Polytechnic
-internship  Tuas Power Generation, shipped a production internal web service
-approach    build it on AWS, codify it in Terraform, automate the deploy
+education   Diploma in Information Technology, Singapore Polytechnic
+internship  Tuas Power Generation — 3 production systems in 11 months
+focus       AWS infrastructure, automation, troubleshooting
+approach    build it, codify it, automate it, document it
 ```
 
 <br>
 
-<!-- ░ STACK ░ -->
-<h3 align="center">Stack</h3>
+<!-- CERTIFICATION -->
+<h3 align="center">AWS Certified Solutions Architect – Associate</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,git,githubactions,python,bash&theme=dark">
-    <img alt="AWS, Terraform, Docker, Git, GitHub Actions, Python, Bash" src="https://skillicons.dev/icons?i=aws,terraform,docker,git,githubactions,python,bash&theme=light">
-  </picture>
-</p>
-
-<p align="center">
-  <sub>AWS &nbsp;·&nbsp; EC2 · VPC · ALB · Auto Scaling · S3 · CloudFront · Route 53 · ACM · Lambda · API Gateway · DynamoDB · IAM · Bedrock</sub>
+  Amazon Web Services · Issued September 2026<br>
+  <sub>Secure, scalable, resilient and cost-effective AWS architecture.</sub><br><br>
+  <a href="https://www.credly.com/badges/6e871609-0c99-4973-b61a-cd750183e8a6"><img alt="Verify AWS Solutions Architect Associate certification on Credly" src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=flat-square&labelColor=24292f"></a>
 </p>
 
 <br>
 
-<!-- ░ PROJECTS ░ -->
+<!-- STACK -->
+<h3 align="center">Stack</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,linux,git,githubactions,python,bash&theme=dark">
+    <img alt="AWS, Terraform, Docker, Linux, Git, GitHub Actions, Python, Bash" src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,git,githubactions,python,bash&theme=light">
+  </picture>
+</p>
+
+<p align="center">
+  <sub><b>Infrastructure:</b> EC2 · VPC · ALB · Auto Scaling · ECS Fargate · S3 · CloudFront · Route 53 · ACM</sub><br>
+  <sub><b>Serverless &amp; security:</b> Lambda · API Gateway · DynamoDB · Bedrock · IAM · KMS · CloudWatch</sub><br>
+  <sub><b>Delivery:</b> Terraform · Docker · Docker Compose · GitHub Actions · Jenkins · Linux · Python · Bash</sub>
+</p>
+
+<br>
+
+<!-- PROFESSIONAL EXPERIENCE -->
+<h3 align="center">Production Experience</h3>
+
+**Web Developer Intern · Tuas Power Generation**  
+April 2025 – February 2026
+
+Delivered **three internal systems into production**, working with finance stakeholders from requirements through deployment and handover:
+
+- **Document AI:** Built an ASP.NET service with custom Azure Document Intelligence models, processing several hundred invoices per month and returning structured JSON to internal systems.
+- **Approval workflows:** Developed an ASP.NET and SQL Server application with role-based access, sequential CFO and CEO sign-off, pending queues and stored procedures.
+- **Data automation:** Built a C# Excel-to-SQL Server batch tool that rejected malformed filenames and rows before they reached downstream reports.
+
+<br>
+
+<!-- PROJECTS -->
 <h3 align="center">Selected Work</h3>
+
+<p align="center"><sub>Self-directed projects built, deployed and documented on personal AWS accounts.</sub></p>
 
 <table align="center">
   <tr>
     <td valign="top">
-      <b>01 &nbsp;S3 Static Site + CloudFront</b><br>
-      <sub>Private S3 bucket served only through CloudFront OAC, HTTPS on a custom domain. No public bucket access.</sub><br><br>
-      <code>S3</code> <code>CloudFront</code> <code>OAC</code> <code>Route 53</code> <code>ACM</code><br><br>
-      <a href="https://mini.shinn.life/"><img alt="Live" src="https://img.shields.io/badge/LIVE_%E2%86%97-24292f?style=flat-square"></a>
-      <a href="https://localhostshinn.xyz/blog/s3-cloudfront-oac"><img alt="Write-up" src="https://img.shields.io/badge/WRITE--UP_%E2%86%97-57606a?style=flat-square"></a>
+      <b>01 &nbsp;Self-Healing AWS Web Tier</b><br>
+      <sub>One ALB routes three application paths to independent Auto Scaling Groups across three Availability Zones. Each group scales at 60% CPU and replaces instances that fail health checks.</sub><br>
+      <sub>Configured HTTPS with ACM and Route 53, redirected HTTP to HTTPS, and documented failure testing. Security groups restrict application traffic to the ALB.</sub><br><br>
+      <code>EC2</code> <code>ALB</code> <code>Auto Scaling</code> <code>VPC</code> <code>Route 53</code> <code>ACM</code><br><br>
+      <a href="https://localhostshinn.xyz/blog/self-healing-auto-scaling-web-tier"><img alt="Read the web tier build and failure-testing write-up" src="https://img.shields.io/badge/WRITE--UP_%E2%86%97-57606a?style=flat-square"></a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <b>02 &nbsp;ALB Path Routing + Auto Scaling</b><br>
-      <sub>One load balancer, three independent backends, split purely by URL path.</sub><br>
-      <sub>Layer-7 rules route <code>/about-me</code> and <code>/what-am-i-doing</code> to separate backends, with everything else falling to a default target group. Each path has its own ASG across 3 AZs, scaling at 60% CPU and replacing instances that fail health checks. HTTPS terminates at the ALB via ACM + Route 53, with :80 redirected to :443.</sub><br><br>
-      <code>ALB</code> <code>Auto Scaling</code> <code>EC2</code> <code>Route 53</code> <code>ACM</code><br><br>
-      <a href="https://localhostshinn.xyz/blog/self-healing-auto-scaling-web-tier"><img alt="Write-up" src="https://img.shields.io/badge/WRITE--UP_%E2%86%97-57606a?style=flat-square"></a>
+      <b>02 &nbsp;Private Static Hosting with Terraform</b><br>
+      <sub>Created Terraform modules for S3, CloudFront, ACM and Route 53. A private S3 origin is accessible through CloudFront Origin Access Control, with HTTPS on a custom domain.</sub><br>
+      <sub>Diagnosed persistent HTTP 403 errors by tracing requests to a stale CloudFront origin path that incorrectly prefixed S3 object keys.</sub><br><br>
+      <code>Terraform</code> <code>S3</code> <code>CloudFront</code> <code>OAC</code> <code>Route 53</code> <code>ACM</code><br><br>
+      <a href="https://mini.shinn.life/"><img alt="View the static site" src="https://img.shields.io/badge/LIVE_%E2%86%97-24292f?style=flat-square"></a>
+      <a href="https://localhostshinn.xyz/blog/s3-cloudfront-oac"><img alt="Read the S3 and CloudFront write-up" src="https://img.shields.io/badge/WRITE--UP_%E2%86%97-57606a?style=flat-square"></a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <b>03 &nbsp;Seventy-Eight</b><br>
-      <sub>Serverless tarot app with AI readings. Draws cards from DynamoDB, and Bedrock explains them in plain language.</sub><br><br>
-      <code>API Gateway</code> <code>Lambda</code> <code>DynamoDB</code> <code>Bedrock</code> <code>CloudFront</code><br><br>
-      <a href="https://seventy-eight.localhostshinn.xyz/"><img alt="Live" src="https://img.shields.io/badge/LIVE_%E2%86%97-24292f?style=flat-square"></a>
-      <a href="https://localhostshinn.xyz/blog/seventy-eight-serverless-tarot"><img alt="Write-up" src="https://img.shields.io/badge/WRITE--UP_%E2%86%97-57606a?style=flat-square"></a>
+      <b>03 &nbsp;Containerised Portfolio &amp; Deployment Pipelines</b><br>
+      <sub>Containerised a React portfolio with Docker and deployed it to ECS Fargate behind an HTTPS Application Load Balancer.</sub><br>
+      <sub>Used GitHub Actions for deployment workflows; previously built a Jenkins pipeline for deployment to EC2.</sub><br><br>
+      <code>Docker</code> <code>ECS Fargate</code> <code>ALB</code> <code>GitHub Actions</code> <code>Jenkins</code><br><br>
+      <a href="https://localhostshinn.xyz"><img alt="View the portfolio" src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-24292f?style=flat-square"></a>
+      <a href="https://github.com/Shinn0x/MyPortfolio"><img alt="View the portfolio source code" src="https://img.shields.io/badge/SOURCE_%E2%86%97-57606a?style=flat-square"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>04 &nbsp;Seventy-Eight — Serverless AI Application</b><br>
+      <sub>Built a React and Python tarot app with API Gateway, Lambda, DynamoDB and Amazon Bedrock. Separated fast card draws from slower AI interpretations so cards render first.</sub><br>
+      <sub>Added API throttling, daily quotas and conditional writes to prevent duplicate model calls. Protected sensitive fields with KMS and wrote 13 unit tests for AWS-independent draw logic.</sub><br><br>
+      <code>Python</code> <code>React</code> <code>API Gateway</code> <code>Lambda</code> <code>DynamoDB</code> <code>Bedrock</code> <code>KMS</code><br><br>
+      <a href="https://seventy-eight.localhostshinn.xyz/"><img alt="Try Seventy-Eight" src="https://img.shields.io/badge/LIVE_%E2%86%97-24292f?style=flat-square"></a>
+      <a href="https://localhostshinn.xyz/blog/seventy-eight-serverless-tarot"><img alt="Read the serverless application write-up" src="https://img.shields.io/badge/WRITE--UP_%E2%86%97-57606a?style=flat-square"></a>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- ░ NOW ░ -->
+<!-- NOW -->
 <h3 align="center">Now</h3>
 
 <p align="center">
   <sub>
-    ▸ Preparing for <b>AWS Solutions Architect Associate (SAA-C03)</b><br>
-    ▸ Designing a <b>zero-NAT VPC</b> that reaches AWS services through VPC endpoints
+    ▸ Open to <b>Junior Cloud / DevOps Engineer</b> opportunities in Singapore<br>
+    ▸ Designing a <b>zero-NAT VPC</b> that reaches AWS services through VPC endpoints<br>
+    ▸ Sharing project builds and troubleshooting notes on <a href="https://localhostshinn.xyz">my portfolio</a>
   </sub>
 </p>
 
