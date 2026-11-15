@@ -26,13 +26,21 @@ approach    build it, codify it, automate it, document it
 
 <br>
 
-<!-- CERTIFICATION -->
-<h3 align="center">AWS Certified Solutions Architect – Associate</h3>
+<!-- CERTIFICATIONS -->
+<h3 align="center">Certifications</h3>
 
 <p align="center">
+  <b>AWS Certified Solutions Architect – Associate</b><br>
   Amazon Web Services · Issued September 2026<br>
   <sub>Secure, scalable, resilient and cost-effective AWS architecture.</sub><br><br>
   <a href="https://www.credly.com/badges/6e871609-0c99-4973-b61a-cd750183e8a6"><img alt="Verify AWS Solutions Architect Associate certification on Credly" src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=flat-square&labelColor=24292f"></a>
+</p>
+
+<p align="center">
+  <b>Google IT Automation with Python Professional Certificate</b><br>
+  Google<br>
+  <sub>Python automation, Git, Linux troubleshooting, configuration management and cloud administration.</sub><br><br>
+  <a href="https://www.credly.com/badges/b2e80abf-1a06-4397-94cc-128459f81465/linked_in?t=tojy1y"><img alt="Verify Google IT Automation with Python Professional Certificate on Credly" src="https://img.shields.io/badge/Google-IT_Automation_with_Python-4285F4?style=flat-square&labelColor=24292f"></a>
 </p>
 
 <br>
@@ -42,15 +50,15 @@ approach    build it, codify it, automate it, document it
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,linux,git,githubactions,python,bash&theme=dark">
-    <img alt="AWS, Terraform, Docker, Linux, Git, GitHub Actions, Python, Bash" src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,git,githubactions,python,bash&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,linux,git,githubactions,python,bash&theme=dark">
+    <img alt="AWS, Terraform, Ansible, Docker, Linux, Git, GitHub Actions, Python, Bash" src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,linux,git,githubactions,python,bash&theme=light">
   </picture>
 </p>
 
 <p align="center">
   <sub><b>Infrastructure:</b> EC2 · VPC · ALB · Auto Scaling · ECS Fargate · S3 · CloudFront · Route 53 · ACM</sub><br>
   <sub><b>Serverless &amp; security:</b> Lambda · API Gateway · DynamoDB · Bedrock · IAM · KMS · CloudWatch</sub><br>
-  <sub><b>Delivery:</b> Terraform · Docker · Docker Compose · GitHub Actions · Jenkins · Linux · Python · Bash</sub>
+  <sub><b>Delivery:</b> Terraform · Ansible · Docker · Docker Compose · GitHub Actions · Jenkins · Linux · Python · Bash</sub>
 </p>
 
 <br>
